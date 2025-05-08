@@ -1,6 +1,6 @@
 # Swire Delivery Standarization
 
-This project, completed for the University of Utah MSBA Capstone, focuses on optimizing delivery strategies for Swire Coca-Cola by identifying high-potential customers at risk of being misclassified into a lower-touch delivery route. Using predictive modeling, dashboard visualizations, and customer segmentation, our team developed data-driven recommendations to balance operational efficiency with long-term revenue growth.
+This project, completed for the University of Utah MSBA Capstone, focuses on optimizing delivery strategies for Swire Coca-Cola by identifying high-potential customers at risk of being misclassified into a lower-touch delivery route. Using predictive modeling, dashboard visualizations, and customer segmentation, our team developed data-driven recommendations to balance operational efficiency with long-term revenue growth. Our group was awarded first place for this project among all capstone teams.
 
 [**View Full Project Details and Notebook**](https://github.com/leemr0903/Swire-Coca-Cola/blob/4a9467a8f929d92282c65d51dab2150f46003d1d/README.md)
 
