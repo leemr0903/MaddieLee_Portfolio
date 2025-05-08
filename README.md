@@ -21,5 +21,5 @@ A hands-on portfolio covering predictive modeling, time series, classification, 
 
 Interactive Tableau dashboard on mental health predictors from demographic and lifestyle data.
 
-[**View Full Project Dashboard**]()
+[**View Full Project Dashboard**](Final_Project_saved.twbx)
 
