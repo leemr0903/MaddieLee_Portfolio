@@ -15,11 +15,11 @@ This project explores alternative methods for assessing creditworthiness using m
 
 A hands-on portfolio covering predictive modeling, time series, classification, clustering, ensemble methods, and neural networks—built with real-world datasets and a focus on practical ML applications.
 
-[**View Full Project Details and Notebook**]()
+[**View Full Project Details and Notebooks**](https://github.com/leemr0903/Machine-Learning-Projects.git)
 
 # Tableau Dashboard
 
 Interactive Tableau dashboard on mental health predictors from demographic and lifestyle data.
 
-[**View Full Project Details and Notebook**]()
+[**View Full Project Details and Dashboard**]()
 
