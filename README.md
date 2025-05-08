@@ -11,6 +11,12 @@ This project explores alternative methods for assessing creditworthiness using m
 
 [**View Full Project Details and Notebook**](https://github.com/leemr0903/HomeCredit/blob/69ad67e54b8c7b176c81b3fa86ce876fc9749bb5/README.md)
 
+# Ruff Haven Database Theory/Design Project
+
+A comprehensive database design project for Ruff Haven Crisis Shelter, featuring full-cycle modeling, a proposed domestic abuse safe house expansion, and ethical data management using PostgreSQL and Lucidchart.
+
+[**View Full Project Details**]()
+
 # Machine Learning Projects
 
 A hands-on portfolio covering predictive modeling, time series, classification, clustering, ensemble methods, and neural networks—built with real-world datasets and a focus on practical ML applications.
