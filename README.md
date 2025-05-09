@@ -15,7 +15,7 @@ This project explores alternative methods for assessing creditworthiness using m
 
 A comprehensive database design project for Ruff Haven Crisis Shelter, featuring full-cycle modeling, a proposed domestic abuse safe house expansion, and ethical data management using PostgreSQL and Lucidchart.
 
-[**View Full Project Details**]()
+[**View Full Project Details**](https://github.com/leemr0903/ruff_haven.git)
 
 # Machine Learning Projects
 
